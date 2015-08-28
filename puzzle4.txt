@@ -1,0 +1,8 @@
+tile pasture road road road
+tile road pasture city road
+tile road city pasture road
+tile city pasture city city
+tile city pasture pasture pasture
+tile pasture pasture road pasture
+tile pasture road road pasture
+tile road road pasture pasture
